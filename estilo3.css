@@ -1,0 +1,72 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#container{position:relative;}
+#coberturas2 {
+    background-color: darkred;
+    width: 150%;
+    height: 80px;
+
+    position:absolute;
+    top:0px;
+    right:0%;
+}  
+
+h1 {
+    position: relative;
+    text-align: center;
+    color: white;
+    padding: -200px;
+    font-family: times new roman;
+    font-style: italic;
+
+}
+
+h3 {
+    position: relative;
+    text-align: center;
+    color: black;
+    padding: -200px;
+    font-family: times new roman;
+    font-style: italic;
+    
+    }
+
+
+form{ 
+    
+    text-align: center;
+    color: black;
+    padding: 50px;
+    font-family: times new roman;
+    font-style: italic;
+    font-size: medium;
+    border: 5px solid darkred ;
+    margin: 60px ;
+    
+}
+
+pre{ 
+    
+    text-align: center;
+    color: black;
+    padding: 50px;
+    font-family: times new roman;
+    font-style: italic;
+    font-size: medium;
+    
+}
+
+table { 
+
+    color: black;
+   
+
+
+
+
+
+
+    }
